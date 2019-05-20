@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ficheiros", "ficheiros\ficheiros.csproj", "{38AD77CC-4584-44D5-978D-2E887C242DDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursiva.cs", "Recursiva.cs\Recursiva.cs.csproj", "{35A305CD-7DE3-40D7-9ADD-7E09F758A951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38AD77CC-4584-44D5-978D-2E887C242DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AD77CC-4584-44D5-978D-2E887C242DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38AD77CC-4584-44D5-978D-2E887C242DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38AD77CC-4584-44D5-978D-2E887C242DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35A305CD-7DE3-40D7-9ADD-7E09F758A951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A305CD-7DE3-40D7-9ADD-7E09F758A951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A305CD-7DE3-40D7-9ADD-7E09F758A951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A305CD-7DE3-40D7-9ADD-7E09F758A951}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

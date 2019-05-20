@@ -1,0 +1,8 @@
+c:\users\henrique\documents\visual studio 2013\Projects\ficheiros\ficheiros\bin\Debug\ficheiros.exe
+c:\users\henrique\documents\visual studio 2013\Projects\ficheiros\ficheiros\bin\Debug\ficheiros.pdb
+c:\users\henrique\documents\visual studio 2013\Projects\ficheiros\ficheiros\obj\Debug\ficheiros.csprojResolveAssemblyReference.cache
+c:\users\henrique\documents\visual studio 2013\Projects\ficheiros\ficheiros\obj\Debug\ficheiros.Form1.resources
+c:\users\henrique\documents\visual studio 2013\Projects\ficheiros\ficheiros\obj\Debug\ficheiros.Properties.Resources.resources
+c:\users\henrique\documents\visual studio 2013\Projects\ficheiros\ficheiros\obj\Debug\ficheiros.csproj.GenerateResource.Cache
+c:\users\henrique\documents\visual studio 2013\Projects\ficheiros\ficheiros\obj\Debug\ficheiros.exe
+c:\users\henrique\documents\visual studio 2013\Projects\ficheiros\ficheiros\obj\Debug\ficheiros.pdb

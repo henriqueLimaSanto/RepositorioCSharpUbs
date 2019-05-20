@@ -1,0 +1,6 @@
+C:\Users\HENRIQUE\Documents\Visual Studio 2013\Projects\ficheiros\Recursiva.cs\bin\Debug\Recursiva.cs.exe.config
+C:\Users\HENRIQUE\Documents\Visual Studio 2013\Projects\ficheiros\Recursiva.cs\bin\Debug\Recursiva.cs.exe
+C:\Users\HENRIQUE\Documents\Visual Studio 2013\Projects\ficheiros\Recursiva.cs\bin\Debug\Recursiva.cs.pdb
+C:\Users\HENRIQUE\Documents\Visual Studio 2013\Projects\ficheiros\Recursiva.cs\obj\Debug\Recursiva.cs.csprojResolveAssemblyReference.cache
+C:\Users\HENRIQUE\Documents\Visual Studio 2013\Projects\ficheiros\Recursiva.cs\obj\Debug\Recursiva.cs.exe
+C:\Users\HENRIQUE\Documents\Visual Studio 2013\Projects\ficheiros\Recursiva.cs\obj\Debug\Recursiva.cs.pdb
